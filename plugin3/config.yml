@@ -1,0 +1,46 @@
+# Nombre de joueurs par équipe
+NbrPlayer: 4
+
+# Nombre de tick d'une partie (sec * 20)
+Timer: 36000
+
+# Point de spawn des différentes équipes
+World: "Skyfight"
+RedLoc:
+  X: 237.0
+  Y: 117.0
+  Z: -2764.0
+BlueLoc:
+  X: 633.0
+  Y: 118.0
+  Z: -2368.0
+GreenLoc:
+  X: 633.0
+  Y: 117.0
+  Z: -2764.0
+YellowLoc:
+  X: 237.0
+  Y: 117.0
+  Z: -2368.0
+
+# Emplacement des coffres des différentes équipes
+RedChest:
+  X:
+  Y:
+  Z:
+BlueChest:
+  X:
+  Y:
+  Z:
+GreenChest:
+  X:
+  Y:
+  Z:
+YellowChest:
+  X:
+  Y:
+  Z:
+
+# Message
+StartMessage: "La partie va bientôt commencer !!!"
+EndMessage: "Fin du Ball Of Steel !!!"

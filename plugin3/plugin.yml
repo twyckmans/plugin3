@@ -1,0 +1,6 @@
+main: be.polfredo.pluginBoS.Main
+name: pluginBoS
+version: 1.2
+author: Polfredo
+description: Plugin du jeu Ball Of Steel
+commands: None
