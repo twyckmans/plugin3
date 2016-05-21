@@ -1,3 +1,4 @@
 # plugin3
 Plugin Ball of Stell 
-Premier esais de plugin pas fonctionnel donc ca ne sert à rien de s'en inspirer
+
+Ce code n'est pas encore fonctionnel et est en plein développement
